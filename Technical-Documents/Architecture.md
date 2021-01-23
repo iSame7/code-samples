@@ -25,7 +25,7 @@ Examples:
 - `Coordinator`s are defined by `Coordinating` interfaces
 - `ViewController`s are defined by `Presentable` or `NavigationControllable` interfaces
 
-![](../Assets/iOS-Architecture.png)
+![](../Assets/iOS-Module-Architecture.png)
 
 
 ### Module
